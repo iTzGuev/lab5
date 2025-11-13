@@ -2,3 +2,11 @@
 *.ipch 
 *.db 
 *.suo 
+x64/ 
+Debug/ 
+Release/ 
+*.obj 
+*.exe 
+*.pdb 
+*.ilk 
+*.idb 
